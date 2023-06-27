@@ -86,10 +86,12 @@ h1.temp {
   
 
   .celFar {
-    position: relative;
-    top: 2vh;
-    left: 35vh;
-    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    /* top: 3vh; */
+    /* left: 55vh; */
+    /* height: 50px; */
 
   }
 /* The switch - the box around the slider */
